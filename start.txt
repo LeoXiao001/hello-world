@@ -3,4 +3,5 @@ add more text
 add branch
 copyright
 Jason Taylor
-create merge conflict
+git training
+this is the real work
